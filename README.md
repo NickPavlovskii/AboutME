@@ -1,4 +1,4 @@
-# AboutME
+
 ✌Hi, I’m Nick 
 
 🤟I’m interested in neural networks and data analysis
