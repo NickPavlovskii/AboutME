@@ -1,5 +1,6 @@
 # AboutME
-✌Hi, I’m Nick 🤟I’m interested in neural networks and data analysis
+✌Hi, I’m Nick 
+🤟I’m interested in neural networks and data analysis
 🔥 I’m currently learning SQL and event predictions by neural networks 
 📫 How to reach me:
 * Mail : o_oniklado_o@list.ru 
