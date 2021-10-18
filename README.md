@@ -9,6 +9,6 @@
 * Mail : o_oniklado_o@list.ru 
 * VK: https://vk.com/o_0niklad0_o
 
-* HR: https://www.hackerrank.com/niklad228 
+HR: https://www.hackerrank.com/niklad228 
 * 🧠 Algorithms 
 * 🥇SQL
