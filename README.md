@@ -13,4 +13,4 @@ HR: https://www.hackerrank.com/niklad228
 * 🧠 Algorithms 
 * 🥇SQL
 
-![Mail](https://img.shields.io/badge/Mail-#005FF9?style=for-the-badge&logo= mail&logoColor=white)]
+![mail](https://img.shields.io/badge/Mail-#005FF9?style=for-the-badge&logo=mail&logoColor=white)]
