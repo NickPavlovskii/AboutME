@@ -1,19 +1,1 @@
-# AboutME
-✌Hi, I’m Nick 
 
-🤟I’m interested in neural networks and data analysis
-
-🔥 I’m currently learning SQL and event predictions by neural networks 
-
-📫 How to reach me:
-* Mail : o_oniklado_o@list.ru 
-* VK: https://vk.com/o_0niklad0_o
-
-HR: https://www.hackerrank.com/niklad228 
-* 🧠 Algorithms 
-* 🥇SQL
-
-
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![mail](https://img.shields.io/badge/Mail-#005FF9?style=for-the-badge&logo=mail&logoColor=white)]
